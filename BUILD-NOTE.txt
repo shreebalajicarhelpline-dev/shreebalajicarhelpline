@@ -1,0 +1,5 @@
+Strict rollback build:
+- Reverted the last aggressive split-hero / image-logo manipulation pass.
+- Preserved the previous acceptable visual direction.
+- Kept footer address, left sticky CTA, premium footer, service cleanup, and direct visible logo assets from the previous stable build.
+- No new redesign applied.
